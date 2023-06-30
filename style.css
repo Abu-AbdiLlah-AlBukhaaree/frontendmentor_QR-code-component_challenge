@@ -30,6 +30,10 @@ body {
   padding: 1rem;
 }
 
+.hidden{
+  display: none;
+}
+
 .container {
   background-color: var(--white);
   width: 80%;
